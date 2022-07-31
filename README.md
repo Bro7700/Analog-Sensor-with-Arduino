@@ -10,6 +10,8 @@ Task 6
 ## Introduction
 
 
+analog temperature sensors provide current or voltage output proportional to the absolute temperature with accuracies of up to ±1°C Our diverse range of analog output temperature sensors can be used in a broad range of applications with no need for external calibration and with minimal signal conditioning .
+
 
 
 
